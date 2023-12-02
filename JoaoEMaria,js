@@ -1,0 +1,21 @@
+function deJoaoParaMaria(){
+
+}
+
+function deMariaParaJoao(){
+    
+}
+function getMaria(){
+    
+}
+function getJoao(){
+    
+}
+function setMaria(){
+    
+}
+function setJoao(){
+    
+}
+
+export { deJoaoParaMaria, deMariaParaJoao, getMaria, getJoao, setMaria, setJoao } 
